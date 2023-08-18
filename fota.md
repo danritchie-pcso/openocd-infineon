@@ -15,5 +15,5 @@ Backend <-> Pi <-> TVII
 
 ## Useful Commands
 - flash banks
-- flash write_bank <number> <filepath> <offset>
-- flash read_bank <number> <outfile_path> <offset> <size>
+- flash write_bank \<number\> \<filepath\> \<offset\>
+- flash read_bank \<number\> \<outfile_path\> \<offset\> \<size\>
