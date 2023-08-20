@@ -17,3 +17,5 @@ Backend <-> Pi <-> TVII
 - flash banks
 - flash write_bank \<number\> \<filepath\> \<offset\>
 - flash read_bank \<number\> \<outfile_path\> \<offset\> \<size\>
+
+*Connect to the pi on our internal network at 192.168.1.123*
