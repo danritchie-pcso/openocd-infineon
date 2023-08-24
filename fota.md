@@ -10,7 +10,7 @@ For more information visit: https://confluence.auto.continental.cloud/display/SC
 Backend <-> Pi <-> TVII
 
 ## To Access TVII
-- I've already simplified everything. All you have to do is connect to TVII over telnet
+- I've already simplified everything with some scripts. All you have to do is connect to TVII over telnet
 
 
 ## Useful Commands
