@@ -3,7 +3,7 @@ For more information visit: https://confluence.auto.continental.cloud/display/SC
 ## Current Setup
 - Currently the pi is acting as the gateway to connect to the backend.
 - Still figuring out how I should run some updates
-- To access backend, TVII will use the key in the work flash to request for and update? (In Progress)
+- To access backend, create a service for the TVII will use the key in the work flash in cm0 to request for and update? (In Progress)
 
 ```Current size 1675 bytes with an offset of 0```
 
